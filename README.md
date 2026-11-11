@@ -33,3 +33,6 @@ Matches are first to two round wins. Rounds last 60 seconds; when time runs out 
 Connected gamepads are assigned to players in order (first pad is P1) and work alongside the keyboard. Stick or D-pad moves, `A` jumps, `X` punches, `B` kicks, `Y` fires plasma, `LB` / `RB` blocks, `Back` quits to the menu.
 
 Most keyboards cannot register many keys held at once, so gamepads are the better option for three or four players.
+
+
+* THIS WAS A TEST FOR FABLE 5.2 - ONE PROMPT
